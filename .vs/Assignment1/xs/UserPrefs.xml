@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{BEC89A45-9804-02E7-B29F-AC2A648FFAED}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpaceRepresentation/ObstacleHandler.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SpaceRepresentation/Polygon.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SpaceRepresentation/ObstacleHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/HW1/GridHandler.cs" Line="19" Column="43" />
+      <File FileName="Assets/Scripts/Pathing/GraphNode.cs" />
+      <File FileName="Assets/HW1/ObstacleTest1Points.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="HW1" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="SpaceRepresentation" expanded="True">
+                  <Node name="ObstacleHandler.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3e2f2883-f2dc-4830-a159-342cdf41e53d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
